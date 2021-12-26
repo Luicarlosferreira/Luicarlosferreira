@@ -11,6 +11,8 @@
 - Reach me: luicarlosferreira@outlook.com 
 </br> <br> <br> <br>
 <p align="left">
+  <br>
+  <br>
   <a href="#" alt="Html5">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>
   <a href="#" alt="Css3">
@@ -21,6 +23,5 @@
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/></a>
   <a href="#" alt="React">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></a>
-  
-  
+   
 </p>  
