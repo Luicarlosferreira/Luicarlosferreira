@@ -5,7 +5,7 @@
 
 **I'm a web development student in love with technology.**
 
-- Skills: HTML, CSS, Bootstrap, JavaScript, Firebase e NodeJs.
+- Skills: HTML, CSS, Bootstrap, JavaScript, ReactJs, NodeJs e MongoDb.
 - Currently learning ReactJs.
 - Tools: VSCode, Adobe Photoshop, Lightroom e Github.
 - Reach me: luicarlosferreira@outlook.com 
@@ -21,6 +21,7 @@
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/></a>  
   <a href="#" alt="Javascript">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/></a>
-  
+  <a href="#" alt="ReactJs">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Java Script Badge" /></a>
    
 </p>  
