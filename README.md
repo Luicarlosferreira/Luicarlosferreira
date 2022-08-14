@@ -5,11 +5,11 @@
 
 **I'm a web development student in love with technology.**
 
-- Skills: HTML, CSS, Bootstrap, JavaScript, ReactJs, NodeJs.
+- Skills: HTML, CSS, JavaScript, ReactJs, NodeJs, Chakra-Ui, Bootstrap, Material UI, Radix, VITE.
 - Currently learning ReactJs.
-- Tools: VSCode, Adobe Photoshop, Lightroom e Github.
+- Tools: VSCode, Adobe Photoshop, Lightroom, Git and Github.
 - Reach me: luicarlosferreira@outlook.com 
-- My LinkedIn https://www.linkedin.com/in/luis-carlos-ferreira-carneiro-52a364201/
+
 </br> <br> <br> <br>
 <p align="left">
   <br>
