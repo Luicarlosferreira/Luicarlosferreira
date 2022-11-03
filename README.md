@@ -5,7 +5,7 @@
 
 **I'm a web development student in love with technology.**
 
-- Skills: HTML, CSS, JavaScript, ReactJs, NodeJs, Chakra-Ui, Bootstrap, Material UI, Radix, VITE.
+- Skills: HTML5, CSS5, JavaScript, ReactJs, NodeJs, Bootstrap, Material UI, Styled-Components, Firebase and VITE.
 - Currently learning ReactJs.
 - Tools: VSCode, Adobe Photoshop, Lightroom, Git and Github.
 - Reach me: luicarlosferreira@outlook.com 
