@@ -5,8 +5,8 @@
 
 **I'm a web development student in love with technology.**
 
-- Skills: HTML5, CSS5, JavaScript, ReactJs, NodeJs, Bootstrap, Material UI, Styled-Components, Firebase and VITE.
-- Currently learning Typescript and nextjs.
+- Skills: HTML5, CSS5, JavaScript, ReactJs, TypeScript, NodeJs, Mongoose, MongoDb, Bootstrap, Material UI, Styled-Components, Firebase and VITE.
+- Currently learning Typescript and Nextjs.
 - Tools: VSCode, Adobe Photoshop, Lightroom, Git and Github.
 - Reach me: luicarlosferreira@outlook.com 
 
