@@ -1,11 +1,11 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 
-# Olá, sou o Luis Carlos! 
+# Olá, sou o Luis Carlos! / Hello, my name's Luis Carlos!
 
-**I'm a web development student in love with technology.**
+**I'm a web developer**
 
-- Skills: HTML5, CSS5, JavaScript, ReactJs, TypeScript, NodeJs, Mongoose, MongoDb, Bootstrap, Material UI, Styled-Components, Firebase and VITE.
+- Skills: HTML5, CSS5, JavaScript, ReactJs, TypeScript, NodeJs, Mongoose, PrismaORM, MongoDb, Bootstrap, Material UI, Styled-Components, Firebase and VITE.
 - Currently learning Typescript and Nextjs.
 - Tools: VSCode, Adobe Photoshop, Lightroom, Git and Github.
 - Reach me: luicarlosferreira@outlook.com 
