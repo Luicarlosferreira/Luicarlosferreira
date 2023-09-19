@@ -1,15 +1,17 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 
-# Hi There! 👋
+# I appreciate your visit in my profile
+My names is Luis Carlos Ferreira Carneiro
 
 
 **I'm a web developer**
 
-- Skills: HTML5, CSS5, JavaScript, ReactJs, TypeScript, NodeJs, Mongoose, PrismaORM, MongoDb, Bootstrap, Material UI, Styled-Components, Firebase, VITE.
-- Currently learning  Nextjs.
-- Tools: VSCode, Adobe Photoshop, Lightroom, Git and Github.
-- Reach me: luicarlosferreira@outlook.com
+- 👩‍💻 HTML5, CSS5, JavaScript, ReactJs, TypeScript, NodeJs, Mongoose, PrismaORM, MongoDb, Bootstrap, Material UI, Styled-Components, Firebase, VITE.
+- 🧠 Currently learning  Nextjs.
+- 🌐 Passionate about technology
+- 🔧 Tools: VSCode, Adobe Photoshop, Lightroom, Git and Github.
+- ✉️ Reach me: luicarlosferreira@outlook.com
   <br>
   <br>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/luicarlosferreira/](https://www.linkedin.com/in/luicarlosferreira/))](https://www.linkedin.com/in/luicarlosferreira/)
