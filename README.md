@@ -3,8 +3,8 @@
 
 # Hi There! 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernanda-kipper-5958a61a9/)](https://www.linkedin.com/in/luicarlosferreira/)
-[![Personal Badge](https://img.shields.io/badge/-Website-6633cc?style=flat-square&logo=Me&logoColor=white&link=https://www.fernandakipper.com/)](https://luiscarlosdev.vercel.app/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/fernanda-kipper-5958a61a9/](https://www.linkedin.com/in/luicarlosferreira/))](https://www.linkedin.com/in/luicarlosferreira/)
+[![Personal Badge](https://img.shields.io/badge/-Website-6633cc?style=flat-square&logo=Me&logoColor=white&link=https://[www.fernandakipper.com/](https://luiscarlosdev.vercel.app/))](https://luiscarlosdev.vercel.app/)
 [![Outlook Badge](https://img.shields.io/badge/-nanda.kipper@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luicarlosferreira@outlook.com)](mailto:luicarlosferreira@outlook.com)
 
 
