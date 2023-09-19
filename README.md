@@ -1,12 +1,17 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 
-# Olá, sou o Luis Carlos! / Hello, my name's Luis Carlos!
+# Hi There! 👋
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernanda-kipper-5958a61a9/)](https://www.linkedin.com/in/luicarlosferreira/)
+[![Personal Badge](https://img.shields.io/badge/-Website-6633cc?style=flat-square&logo=Me&logoColor=white&link=https://www.fernandakipper.com/)](https://luiscarlosdev.vercel.app/)
+[![Outlook Badge](https://img.shields.io/badge/-nanda.kipper@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luicarlosferreira@outlook.com)](mailto:luicarlosferreira@outlook.com)
+
 
 **I'm a web developer**
 
-- Skills: HTML5, CSS5, JavaScript, ReactJs, TypeScript, NodeJs, Mongoose, PrismaORM, MongoDb, Bootstrap, Material UI, Styled-Components, Firebase and VITE.
-- Currently learning Typescript and Nextjs.
+- Skills: HTML5, CSS5, JavaScript, ReactJs, TypeScript, NodeJs, Mongoose, PrismaORM, MongoDb, Bootstrap, Material UI, Styled-Components, Firebase, VITE.
+- Currently learning  Nextjs.
 - Tools: VSCode, Adobe Photoshop, Lightroom, Git and Github.
 - Reach me: luicarlosferreira@outlook.com 
 
