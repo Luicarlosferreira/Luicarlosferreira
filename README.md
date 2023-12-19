@@ -2,7 +2,7 @@
 
 
 ## Hey there! 🤙
-## My names is Luis Carlos Ferreira Carneiro
+## My name is Luis Carlos Ferreira Carneiro
 
 
 **I'm a web developer**
